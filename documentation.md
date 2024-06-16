@@ -7,7 +7,7 @@
 1. Get the last data group's event (end data and grade market end)
 2. Return status "active" if the event not finished yet.
 
-## Alternative flow: The event is on end edge
+## Alternative flow: The event is in end edge
 2. Return status "active"
 
 ## Alternative flow: Event is ended, in grade market period though
